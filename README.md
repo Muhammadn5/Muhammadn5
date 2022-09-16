@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Laravel, PHP, Ajax, jQuery, HTML, CSS, Bootstrap**
 
-- 💻 Contributing in Code Greppper <a target="_blank" href="https://www.codegrepper.com/profile/muhammad-ishaq">muhammad-ishaq</a>
+- 💻 Contributing in Code Greppper <a href="https://www.codegrepper.com/profile/muhammad-ishaq" target="_blank">muhammad-ishaq</a>
 
 - 📫 How to reach me **mishaqn5@gmail.com**
 
