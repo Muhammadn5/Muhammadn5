@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQHBK4obOLJeyw/profile-displaybackgroundimage-shrink_200_800/0/1662842022203?e=1668643200&v=beta&t=ABRg88slnsuOuxYQFjWfc6yYlsVKRPsFEB19TTBo8d4)](https://Muhammad-Ishaq.io)
 <h1 align="center">Hi 👋, I'm Muhammad Ishaq</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadn5&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadn5" /> </p>
 
