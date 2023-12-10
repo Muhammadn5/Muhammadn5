@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/muhamma47664564" target="blank"><img src="https://img.shields.io/twitter/follow/muhamma47664564?logo=twitter&style=for-the-badge" alt="muhamma47664564" /></a> </p>
 
-- 🌱 I’m currently learning **Rest API's**
-
 - 💬 Ask me about **Laravel, PHP, Ajax, jQuery, HTML, CSS, Bootstrap**
 
 - 💻 Contributing in Code Greppper <a href="https://www.codegrepper.com/profile/muhammad-ishaq" target="_blank">muhammad-ishaq</a>
